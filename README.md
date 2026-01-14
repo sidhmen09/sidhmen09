@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Data+Scientist+%7C+ML+Engineer+%7C+Data+Analyst;Transforming+Data+into+Actionable+Insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Data+Analyst+%7C+Data+Scientist+%7C+ML+Engineer;Transforming+Data+into+Actionable+Insights)](https://git.io/typing-svg)
 
 </div>
 
@@ -153,7 +153,7 @@ me = DataScientist()
 
 <div align="center">
 
-💼 **Open to Data Scientist/ML Engineer opportunities**
+💼 **Open to Data Analyst/Data Scientist/ML Engineer opportunities**
 
 📧 **Email:** sidh.men0n.567@gmail.com  
 📱 **Phone:** +91-8593001537  
