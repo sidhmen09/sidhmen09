@@ -81,7 +81,7 @@ me = DataAnalyst()
 
 ## 🔥 Featured Projects
 
-### 🤖 [Mini-GPT: Transformer Language Model](https://github.com/sidhmen09)
+### 🤖 [Mini-GPT: Transformer Language Model](https://github.com/sidhmen09/Mini-GPT.git)
 > Built a decoder-only Transformer (GPT-style) from scratch in PyTorch
 - 🧠 Custom NLP pipeline with SentencePiece tokenization
 - 🔬 Hyperparameter experiments on model depth, context length & learning rate
@@ -91,7 +91,7 @@ me = DataAnalyst()
 
 ---
 
-### 🩺 [AI Glucose Prediction System](https://github.com/sidhmen09)
+### 🩺 [AI Glucose Prediction System](https://sidhmen09.github.io/Glucose-Prediction-Monitoring/)
 > LSTM-based system for real-time blood glucose forecasting
 - ⚡ **85% accuracy** in 30-60 minute glucose predictions
 - 🚨 Real-time anomaly detection with hypoglycemic/hyperglycemic alerts
@@ -102,7 +102,7 @@ me = DataAnalyst()
 
 ---
 
-### 💳 [Credit Risk Analysis & Loan Default Prediction](https://github.com/sidhmen09)
+### 💳 [Credit Risk Analysis & Loan Default Prediction](https://github.com/sidhmen09](https://github.com/sidhmen09/Credit-Risk-Analysis.git)
 > Large-scale financial data analysis for credit risk assessment
 - 📊 Analyzed large-scale loan and customer datasets
 - 🔍 Feature engineering for income, interest rates, and employment length
@@ -112,7 +112,7 @@ me = DataAnalyst()
 
 ---
 
-### 📉 [Meal & Insulin Effect Analysis](https://github.com/sidhmen09)
+### 📉 [Meal & Insulin Effect Analysis](https://github.com/sidhmen09](https://github.com/sidhmen09/CGM---Meal-and-Insulin-Impact-Analysis.git)
 > Analyzed 100K+ CGM readings across 25 patients
 - 🎯 Reduced spike prediction error to **8.2 mg/dL**
 - 🧪 Engineered 12+ physiological features including insulin-to-carb ratios
