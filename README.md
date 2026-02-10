@@ -122,12 +122,12 @@ me = DataAnalyst()
 
 ---
 ### 📉 [Predictive Analytics for Demand Forecasting](https://github.com/sidhmen09/demand-forecasting-model.git)
-> Analyzed 100K+ CGM readings across 25 patients
-- 🎯 Reduced spike prediction error to **8.2 mg/dL**
-- 🧪 Engineered 12+ physiological features including insulin-to-carb ratios
-- 🤖 Built ensemble models (Random Forest, Gradient Boosting) achieving **82% variance explained**
+> Engineered time series features (lag variables, rolling statistics, seasonality indicators) and built end-to-end forecasting pipeline processing 21,900+ daily records across 15 material-plant combinations
+- 🎯 Improve Demand forecast accuracy by **20~25%**
+- 🧪 Designed actionable SAP procurement recommendations by translating forecast outputs into safety stock levels, reorder points, and 30-day purchase order quantities, **reducing stockout risk by 80%**.
+- 🤖 Developed predictive demand forecasting models using Prophet and SARIMA achieving **45% improvement in MAPE (28.5% → 15.8%).**
 
-**Tech Stack:** `Random Forest` `Gradient Boosting` `Feature Engineering` `Healthcare Analytics`
+**Tech Stack:** `SARIMA` `Prophet` `Feature Engineering` `SAP ERP` `Demand Forecasting`
 
 ---
 ## 🎓 Certifications & Learning
