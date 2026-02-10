@@ -19,7 +19,7 @@
 ## 🚀 About Me
 
 ```python
-class DataScientist:
+class DataAnalyst:
     def __init__(self):
         self.name = "Sidharth Menon"
         self.role = "Process Analyst @ Wipro"
@@ -40,7 +40,7 @@ class DataScientist:
     def current_focus(self):
         return "Building production-ready ML models and AI-driven analytics solutions"
 
-me = DataScientist()
+me = DataAnalyst()
 ```
 
 ---
