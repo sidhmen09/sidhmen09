@@ -121,7 +121,15 @@ me = DataAnalyst()
 **Tech Stack:** `Random Forest` `Gradient Boosting` `Feature Engineering` `Healthcare Analytics`
 
 ---
+### 📉 [Predictive Analytics for Demand Forecasting](https://github.com/sidhmen09/demand-forecasting-model.git)
+> Analyzed 100K+ CGM readings across 25 patients
+- 🎯 Reduced spike prediction error to **8.2 mg/dL**
+- 🧪 Engineered 12+ physiological features including insulin-to-carb ratios
+- 🤖 Built ensemble models (Random Forest, Gradient Boosting) achieving **82% variance explained**
 
+**Tech Stack:** `Random Forest` `Gradient Boosting` `Feature Engineering` `Healthcare Analytics`
+
+---
 ## 🎓 Certifications & Learning
 
 - 📜 **Project Management** - Siemens Virtual Internship
