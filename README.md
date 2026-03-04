@@ -130,6 +130,15 @@ me = DataAnalyst()
 **Tech Stack:** `SARIMA` `Prophet` `Feature Engineering` `SAP ERP` `Demand Forecasting`
 
 ---
+### 📉 [Predictive Analytics for Demand Forecasting](https://github.com/sidhmen09/demand-forecasting-model.git)
+> End-to-end ML project for customer segmentation using K-Means clustering with RFM analysis
+- 🎯 Generated a synthetic dataset of over 20k transactions for 2K customers.
+- 🧪 Applied the Elbow method and silhouette score analysis to group customers based on thier RFM features and shared tactics to handle these groups sepaarately.
+- 🤖 Estimated revenue  upliftment of $200K - $400K which is  10-20% of orignal revenue (synthetic dataset)
+  
+**Tech Stack:** `K-Means` `Elbow Method` `StandardScaler` `PCA` `RFM` `Silhouette score`
+
+---
 ## 🎓 Certifications & Learning
 
 - 📜 **Project Management** - Siemens Virtual Internship
